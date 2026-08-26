@@ -91,7 +91,7 @@ SQLite database, ML prediction and Streamlit dashboard.
 ### Languages & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cs" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 `NumPy` `Pandas` `SQL` `SQLite`
