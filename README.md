@@ -1,218 +1,249 @@
-# 🚀 Hemanath Thangavel | Machine Learning Engineer
+# 🚀 Ultimate GitHub Profile README for Hemanath400
+
+```markdown
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hemanath%20Thangavel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20|%20Data%20Scientist%20|%20Computer%20Vision%20Engineer&descAlignY=60"/>
 
 <div align="center">
 
-# Hi 👋, I'm Hemanath Thangavel
-
-### 🤖 Machine Learning Engineer | Data Scientist | Computer Vision Enthusiast
-
-Passionate about building AI solutions that solve real-world problems through Machine Learning, Computer Vision, Data Analytics, and Generative AI.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Machine+Learning+Engineer;Data+Scientist;Computer+Vision+Engineer;Open+Source+Contributor;Building+AI+Solutions+for+Real+World+Problems;Deep+Learning+%7C+GenAI+%7C+Computer+Vision" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-🎓 Postgraduate in Computer Science Engineering (2026)
+<img src="https://komarev.com/ghpvc/?username=Hemanath400&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-🔭 Currently Working On:
+<img src="https://img.shields.io/github/followers/Hemanath400?style=for-the-badge&logo=github"/>
 
-* 🚧 Rumble Strip Detection System for Highway Safety
-* ♻️ Hazardous Waste Detection for Scrap Yards
-* 🤖 Computer Vision & Deep Learning Applications
+<img src="https://img.shields.io/github/stars/Hemanath400?style=for-the-badge&logo=github"/>
 
-🌱 Currently Learning:
+</div>
 
-* Advanced Deep Learning
-* Large Language Models (LLMs)
-* Agentic AI Systems
-* MLOps & Model Deployment
+---
 
-💬 Ask Me About:
+# 👨‍💻 About Me
 
-* Python
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Data Analytics
-* Streamlit Deployment
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVzMWV6M2t0NXU2dHhhd3h0M2N0dTY5Y3FjdTB1aGk3bTJoNnN6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+🎓 PG in Computer Science Engineering (2026)
+
+🤖 Passionate about Machine Learning, Deep Learning and Computer Vision
+
+🚀 Currently Building:
+- Highway Rumble Strip Detection System
+- Hazardous Waste Detection for Scrap Yards
+- AI-Powered Vision Applications
+
+🌱 Learning:
+- Generative AI
+- Agentic AI
+- MLOps
+- LLM Engineering
+
+💬 Ask me about:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Python
+- Data Science
 
 ⚡ Fun Fact:
-I enjoy building AI solutions in Sports Analytics and Road Safety domains.
+I enjoy combining AI and Sports Analytics to uncover hidden insights.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-### 🤖 Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
-
-### 🧠 Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-
-### 📊 Data Analysis
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
-
-### 🚀 Deployment & Tools
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
----
-
-## 🌟 Featured Projects
-
-### 🚧 Rumble Strip Detection System
-
-✅ RF-DETR Object Detection Model
-
-✅ 90.1% mAP@50
-
-✅ Precision: 100%
-
-✅ Recall: 90%
-
-✅ Successfully detected 3/3 observed rumble strip events in unseen highway footage
-
-✅ Real-time warning prototype for highway safety
-
----
-
-### ⚽ Football Analytics Dashboard
-
-📈 17,467+ Players Analyzed
-
-🏟️ 768+ Clubs
-
-📊 1.8M+ Match Appearances
-
-⚡ Interactive Streamlit Dashboard
-
-📉 Advanced Football Data Analytics
-
----
-
-### 🎯 Football Match Predictor
-
-⚽ Historical dataset from 1872–2026
-
-🤖 XGBoost-based prediction model
-
-📊 Match outcome prediction system
-
-📈 Data-driven football insights
-
----
-
-### 🧑‍💻 AI Developer Focus Monitor
-
-🔌 VS Code Extension
-
-🧠 Burnout Prediction Model
-
-📈 Productivity Analytics Dashboard
-
-💾 SQLite + Flask + Streamlit Integration
-
----
-
-## 📈 GitHub Stats
+# 🛠️ Tech Stack
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Hemanath400\&show_icons=true\&theme=tokyonight)
+## Programming Languages
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400\&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=python,c,cs,cpp,mysql"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath400\&layout=compact\&theme=tokyonight)
+## Data Science & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
+
+## Web & Deployment
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,git,github,vscode"/>
+
+## Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🚀 Featured Projects
+
+## 🚧 Highway Rumble Strip Detection System
+
+🎯 Detects highway rumble strips using Computer Vision
+
+📈 Model Performance:
+- mAP@50: 90.1%
+- Precision: 100%
+- Recall: 90%
+
+✅ Successfully detected 3/3 observed rumble-strip events in unseen highway footage
+
+🛠 Tech:
+Python | Roboflow | RF-DETR | OpenCV
+
+---
+
+## ⚽ Football Analytics Dashboard
+
+📊 Comprehensive football analytics platform
+
+### Highlights
+
+- 17,467+ Players Analyzed
+- 768+ Clubs
+- 1.8 Million+ Match Appearances
+- Interactive Visual Analytics
+
+🛠 Tech:
+Python | Pandas | Streamlit | Plotly
+
+---
+
+## 🎯 Football Match Predictor
+
+⚽ Predicts football match outcomes
+
+📈 Historical Data:
+1872–2026
+
+🤖 Model:
+XGBoost
+
+📊 Features:
+- Team Form Analysis
+- Match Prediction
+- Performance Analytics
+
+---
+
+## 🧠 AI Developer Focus Monitor
+
+### Features
+
+✅ VS Code Extension
+
+✅ Burnout Prediction
+
+✅ Productivity Monitoring
+
+✅ Analytics Dashboard
+
+Tech Stack:
+Python | Flask | SQLite | Streamlit
+
+---
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Hemanath400\&theme=tokyonight\&no-frame=true\&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=Hemanath400&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 GitHub Statistics
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Hemanath400\&theme=tokyo-night)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemanath400&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-* Building Production Ready ML Systems
-* Computer Vision Research Projects
-* Open Source Contributions
-* Deep Learning & Generative AI
-* MLOps & Deployment
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath400&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🤝 Open Source Contributions
-
-✅ OpenAgentHQ Contributor
-
-✅ OpenAgent Eval Contributor
-
-✅ Active GitHub Contributor
-
-✅ Passionate about Community-driven Development
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn:
-https://www.linkedin.com/in/hemnaththangavel/
-
-🌐 Portfolio:
-https://hemanath-t.netlify.app/
-
-💻 GitHub:
-https://github.com/Hemanath400
-
-📧 Email:
-[your-email@example.com](mailto:your-email@example.com)
-
----
+# 📈 Contribution Graph
 
 <div align="center">
 
-### ⭐ "Building AI solutions that create real-world impact."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanath400&theme=tokyo-night"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Hemanath400/Hemanath400/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+🔹 Machine Learning Engineering
+
+🔹 Computer Vision Systems
+
+🔹 Open Source Contributions
+
+🔹 Deep Learning Research
+
+🔹 Generative AI Applications
+
+🔹 MLOps & Deployment
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hemnaththangavel/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Hemanath400">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://hemanath-t.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### "Building AI solutions that create real-world impact."
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+
+```
