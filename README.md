@@ -159,11 +159,13 @@ Focused on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hemanath400&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hemanath400&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath400&layout=compact&theme=transparent&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400&hide_border=true" />
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Hemanath400&theme=transparent&hide_border=true" width="70%" />
 
 </div>
 
