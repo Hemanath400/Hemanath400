@@ -155,17 +155,26 @@ Focused on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hemanath400&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
+| 🚧 Computer Vision | ⚽ Football Analytics | 🤝 Open Source |
+|:---:|:---:|:---:|
+| **90.1% mAP@50** | **17K+ Players** | **Multiple Merged PRs** |
+| **3/3 Unseen Events** | **1.8M+ Appearances** | **OpenAgent Projects** |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath400&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</div>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Hemanath400&theme=transparent&hide_border=true" width="70%" />
+<a href="https://github.com/Hemanath400">
+<img src="https://img.shields.io/github/followers/Hemanath400?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/Hemanath400?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
