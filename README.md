@@ -68,7 +68,7 @@ Interactive football analytics platform built using Transfermarkt data.
 
 ---
 
-### Football Match Predictor
+### [Football Match Predictor](https://github.com/Hemanath400/Football-match-predictor-app)
 
 Machine Learning application for predicting international football match
 outcomes using historical match data and XGBoost.
@@ -77,7 +77,7 @@ outcomes using historical match data and XGBoost.
 
 ---
 
-### 🏅 AI Developer Focus Monitor
+### [AI Developer Focus Monitor](https://github.com/Hemanath400/focus-monitor)
 
 ML-powered developer monitoring system combining a VS Code extension, Flask API,
 SQLite database, ML prediction and Streamlit dashboard.
