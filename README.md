@@ -47,7 +47,7 @@ open-source projects.
 
 ## 🚀 Featured Projects
 
-### 🥇 [Rumble Strip Detection](https://github.com/Hemanath400/rumble-strip-detection)
+### [Rumble Strip Detection](https://github.com/Hemanath400/rumble-strip-detection)
 
 Computer Vision system for detecting highway rumble strips from forward-facing
 road video and providing an early warning to drivers.
@@ -58,7 +58,7 @@ road video and providing an early warning to drivers.
 
 ---
 
-### 🥈 [Football Player Analytics Dashboard](https://github.com/Hemanath400/football-player-analytics-dashboard)
+### [Football Player Analytics Dashboard](https://github.com/Hemanath400/football-player-analytics-dashboard)
 
 Interactive football analytics platform built using Transfermarkt data.
 
@@ -68,7 +68,7 @@ Interactive football analytics platform built using Transfermarkt data.
 
 ---
 
-### 🥉 Football Match Predictor
+### Football Match Predictor
 
 Machine Learning application for predicting international football match
 outcomes using historical match data and XGBoost.
