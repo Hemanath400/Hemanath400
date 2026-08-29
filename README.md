@@ -62,27 +62,16 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 ---
 
 ## 🛠️ Tech Stack
+```yaml
+$ cat stack.txt
 
-### Languages & Data Management
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />  
+languages    Python · SQL · SQLite · Pandas · NumPy
+ai_ml        Scikit-learn · XGBoost · LightGBM · CatBoost · CNNs · ResNet
+cv           OpenCV · Roboflow · RF-DETR · Video Processing
+deployment   Streamlit · Flask · FastAPI · REST APIs
+tooling      Git · GitHub · Joblib
 
-`NumPy`, `Pandas`, `SQL`, `SQLite`
-
-### Machine Learning & Deep Learning
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" height="40" />  
-
-`Scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`, `CNNs`, `Transfer Learning`, `ResNet`, `Object Detection`
-
-### Computer Vision
-<img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="40" />  
-
-`OpenCV`, `Roboflow`, `RF-DETR`, `Video Processing`
-
-### Development & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,flask,fastapi,docker" alt="DevOps Tools" height="40" />  
-
-`Streamlit`, `Flask`, `FastAPI`, `REST APIs`, `Joblib`
-
+```
 ---
 
 ## 🤝 Open Source Contributions
