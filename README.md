@@ -27,17 +27,14 @@ mission      Building practical AI systems:  Data ➔ Model ➔ Eval ➔ Deploy
 ```
 
 ## ⚡ Key Impact
+```yaml
+$ cat impact_and_oss.txt
 
-<div align="center">
-
-| 🚧 Computer Vision | ⚽ Football Analytics | 🤝 Open Source |
-| :---: | :---: | :---: |
-| **90.1% mAP@50** | **17K+ Players tracked** | **Multiple Merged PRs** |
-| **3/3 Unseen Events** | **1.8M+ Appearances** | **OpenAgent Projects** |
-
-</div>
-
----
+computer_vision     90.1% mAP@50 · 100% Precision · 3/3 Unseen Events
+football_analytics  17K+ Players tracked · 700+ Clubs · 1.8M+ Appearances
+open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
+workflow            Branching · Code Review · Unit Testing
+```
 
 ## 🚀 Featured Projects
 
