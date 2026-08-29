@@ -30,10 +30,28 @@ Currently exploring **Generative AI**, **RAG**, and **Agentic AI**, while active
 
 <div align="center">
 
-| 📈 Total Contributions | 🔥 Current Streak | ⚡ Longest Streak |
+### 📈 Contribution Activity
+
+| 📦 Total Contributions | 🔥 Current Streak | ⚡ Longest Streak |
 |:---:|:---:|:---:|
 | **2,421** | **17 Days** | **50 Days** |
 | Sep 22, 2023 – Present | Aug 13 – Aug 29 | Feb 18 – Apr 8 |
+
+</div>
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hemanath400&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400&theme=radical&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath400&layout=compact&theme=radical&hide_border=true" width="40%" />
 
 </div>
 
