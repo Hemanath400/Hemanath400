@@ -26,6 +26,19 @@ Currently exploring **Generative AI**, **RAG**, and **Agentic AI**, while active
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+| 📈 Total Contributions | 🔥 Current Streak | ⚡ Longest Streak |
+|:---:|:---:|:---:|
+| **2,421** | **17 Days** | **50 Days** |
+| Sep 22, 2023 – Present | Aug 13 – Aug 29 | Feb 18 – Apr 8 |
+
+</div>
+
+---
+
 ## ⚡ Key Achievements
 
 <div align="center">
@@ -45,7 +58,7 @@ Currently exploring **Generative AI**, **RAG**, and **Agentic AI**, while active
 **Computer vision system** for detecting highway rumble strips from forward-facing road video to provide early warnings to drivers.
 
 - **Metrics:** 90.1% mAP@50 · 100% Precision · 90% Recall · 94.7% F1  
-- **Stack:** `Python` · `RF-DETR` · `Roboflow` · `OpenCV`
+- **Stack:** <img src="https://skillicons.dev/icons?i=py,opencv" height="20" /> `Python` · `RF-DETR` · `Roboflow` · `OpenCV`
 
 ---
 
@@ -53,38 +66,53 @@ Currently exploring **Generative AI**, **RAG**, and **Agentic AI**, while active
 **Interactive analytics platform** built using Transfermarkt data.
 
 - **Scale:** 17K+ Players · 700+ Clubs · 1.8M+ Appearances  
-- **Stack:** `Python` · `Pandas` · `NumPy` · `Plotly` · `Streamlit`
+- **Stack:** <img src="https://skillicons.dev/icons?i=py" height="20" /> `Python` · `Pandas` · `NumPy` · `Plotly` · `Streamlit`
 
 ---
 
 ### [Football Match Predictor](https://github.com/Hemanath400/Football-match-predictor-app)
 **ML-powered predictor** for international football match outcomes using historical data and XGBoost.
 
-- **Stack:** `Python` · `Scikit-learn` · `XGBoost` · `Streamlit`
+- **Stack:** <img src="https://skillicons.dev/icons?i=py" height="20" /> `Python` · `Scikit-learn` · `XGBoost` · `Streamlit`
 
 ---
 
 ### [AI Developer Focus Monitor](https://github.com/Hemanath400/focus-monitor)
 **Developer productivity tool** combining a VS Code extension, Flask API, SQLite DB, ML prediction, and a Streamlit dashboard.
 
-- **Stack:** `Python` · `Flask` · `SQLite` · `Streamlit`
+- **Stack:** <img src="https://skillicons.dev/icons?i=py,flask,sqlite,docker" height="20" /> `Python` · `Flask` · `SQLite` · `Streamlit`
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Data
-`Python` · `NumPy` · `Pandas` · `SQL` · `SQLite`
+<p>
+  <img src="https://skillicons.dev/icons?i=py" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" />
+</p>
 
 ### Machine Learning & Deep Learning
-`PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost`  
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="35" />
+</p>
+`Scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost`  
 `CNN` · `Transfer Learning` · `ResNet` · `Object Detection`
 
 ### Computer Vision
-`OpenCV` · `Roboflow` · `RF-DETR` · `Video Processing`
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" height="35" />
+</p>
+`Roboflow` · `RF-DETR` · `Video Processing`
 
 ### Development & Deployment
-`Git` · `GitHub` · `Flask` · `FastAPI` · `Docker` · `Streamlit` · `REST APIs` · `Joblib`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,flask,fastapi,docker" height="35" />
+</p>
+`Streamlit` · `REST APIs` · `Joblib`
 
 ---
 
@@ -93,7 +121,7 @@ Currently exploring **Generative AI**, **RAG**, and **Agentic AI**, while active
 - **OpenAgentHQ** – Contributed fixes and improvements to an open-source AI project.  
 - **OpenAgent Eval** – Contributed to an evaluation-focused codebase via GitHub pull requests.
 
-**Practices:** `Git` · `Branching` · `PRs` · `Testing` · `Code Review`
+**Practices:** <img src="https://skillicons.dev/icons?i=git,github" height="20" /> `Git` · `Branching` · `PRs` · `Testing` · `Code Review`
 
 ---
 
