@@ -47,20 +47,20 @@ Currently, I am expanding my expertise in **Generative AI, RAG (Retrieval-Augmen
 ### [Rumble Strip Detection](https://github.com/Hemanath400/rumble-strip-detection)
 A robust Computer Vision system designed to detect highway rumble strips from forward-facing road video, providing critical early warnings to drivers.
 * **Performance:** 90.1% mAP@50 • 100% Precision • 90% Recall • 94.7% F1 Score
-* **Tech Stack:** `Python` `RF-DETR` `Roboflow` `OpenCV` `Computer Vision`
+* **Tech Stack:** `Python`, `RF-DETR`, `Roboflow`, `OpenCV`, `Computer Vision`
 
 ### [Football Player Analytics Dashboard](https://github.com/Hemanath400/football-player-analytics-dashboard)
 An interactive and comprehensive football analytics platform leveraging Transfermarkt data.
 * **Scale:** 17K+ Players • 700+ Clubs • 1.8M+ Appearances
-* **Tech Stack:** `Python` `Pandas` `NumPy` `Plotly` `Streamlit`
+* **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Plotly`, `Streamlit`
 
 ### [Football Match Predictor](https://github.com/Hemanath400/Football-match-predictor-app)
 A predictive Machine Learning application forecasting international football match outcomes utilizing historical data and advanced gradient boosting.
-* **Tech Stack:** `Python` `Pandas` `Scikit-learn` `XGBoost` `Streamlit`
+* **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `XGBoost`, `Streamlit`
 
 ### [AI Developer Focus Monitor](https://github.com/Hemanath400/focus-monitor)
 An ML-powered productivity system that combines a VS Code extension, Flask API, and real-time dashboard to monitor developer focus.
-* **Tech Stack:** `Python` `Flask` `SQLite` `Machine Learning` `Streamlit`
+* **Tech Stack:** `Python`, `Flask`, `SQLite`, `Machine Learning`, `Streamlit`
 
 ---
 
@@ -68,19 +68,19 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 ### Languages & Data Management
 <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />  
-`NumPy` `Pandas` `SQL` `SQLite`
+`NumPy`, `Pandas`, `SQL`, `SQLite`
 
 ### Machine Learning & Deep Learning
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow" height="40" />  
-`Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `CNNs` `Transfer Learning` `ResNet` `Object Detection`
+`Scikit-learn`, `XGBoost`, `LightGBM`, `CatBoost`, `CNNs`, `Transfer Learning`, `ResNet`, `Object Detection`
 
 ### Computer Vision
 <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" height="40" />  
-`OpenCV` `Roboflow` `RF-DETR` `Video Processing`
+`OpenCV`, `Roboflow`, `RF-DETR`, `Video Processing`
 
 ### Development & Deployment
 <img src="https://skillicons.dev/icons?i=git,github,flask,fastapi,docker" alt="DevOps Tools" height="40" />  
-`Streamlit` `Flask` `FastAPI` `REST APIs` `Joblib`
+`Streamlit`, `Flask`, `FastAPI`, `REST APIs`, `Joblib`
 
 ---
 
@@ -88,7 +88,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 * **OpenAgentHQ:** Contributed core fixes and architectural improvements to the primary AI repository.
 * **OpenAgent Eval:** Enhanced the evaluation-focused codebase through rigorous testing and merged pull requests.
-* **Workflow:** `Git` `GitHub` `Branching` `Code Review` `Unit Testing`
+* **Workflow:** `Git`, `GitHub`, `Branching`, `Code Review`, `Unit Testing`
 
 ---
 
@@ -105,7 +105,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 <br>
 
-**Focus Areas:** `Python` `Data Structures & Algorithms` `SQL` `Machine Learning`
+**Focus Areas:** `Python`, `Data Structures & Algorithms`, `SQL`, `Machine Learning`
 
 </div>
 
