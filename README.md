@@ -62,8 +62,8 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 ---
 
 ## 🛠️ Tech Stack
-$ cat stack.txt
 ```yaml
+$ cat stack.txt
 languages    Python · SQL · SQLite · Pandas · NumPy
 ai_ml        Scikit-learn · XGBoost · LightGBM · CatBoost · CNNs · ResNet
 cv           OpenCV · Roboflow · RF-DETR · Video Processing
