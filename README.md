@@ -23,8 +23,8 @@ role         Machine Learning Engineer / Data Scientist
 edu          Master's in Computer Science Engineering (Class of 2026)
 focus        Computer Vision · Deep Learning · Generative AI · Agentic AI
 mission      Building practical AI systems:  Data ➔ Model ➔ Eval ➔ Deploy
-portfolio    <a href="https://hemanath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
----
+portfolio    https://hemanath-portfolio.vercel.app/
+
 ```
 
 ## ⚡ Key Impact
