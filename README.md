@@ -168,6 +168,10 @@ Focused on:
 
 <div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400&theme=dark)](https://git.io/streak-stats)
+
+<br>
+
 <a href="https://github.com/Hemanath400">
 <img src="https://img.shields.io/github/followers/Hemanath400?style=for-the-badge&logo=github&label=Followers" />
 </a>
