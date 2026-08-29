@@ -132,8 +132,8 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 
 <br><br>
 
-### 🚀 Building Practical AI Systems
-**Data ➔ Models ➔ Evaluation ➔ Deployment ➔ Impact**
+### ⚡ Building Practical AI Systems
+**Data Engineering ➔ Advanced Modeling ➔ Rigorous Evaluation ➔ Scalable Deployment ➔ Real-World Impact**
 
 <br>
 
