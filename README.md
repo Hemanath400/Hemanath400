@@ -16,8 +16,6 @@
 </div>
 
 ```yaml
----
-
 $ whoami --verbose
 
 name         Hemanath Thangavel
