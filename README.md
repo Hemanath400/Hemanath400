@@ -22,7 +22,8 @@ name         Hemanath Thangavel
 role         Machine Learning Engineer / Data Scientist
 edu          Master's in Computer Science Engineering (Class of 2026)
 focus        Computer Vision · Deep Learning · Generative AI · Agentic AI
-mission      Building practical AI systems:  Data ➔ Model ➔ Eval ➔ Deploy
+mission      Building practical AI systems:
+Data ➔ Model ➔ Eval ➔ Deploy
 
 ```
 
