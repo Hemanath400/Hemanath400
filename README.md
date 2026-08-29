@@ -17,7 +17,6 @@
 
 ---
 
-```yaml
 $ whoami --verbose
 
 name         Hemanath Thangavel
@@ -26,7 +25,6 @@ edu          Computer Science Engineering (Class of 2026)
 focus        Computer Vision · Deep Learning · Generative AI · Agentic AI
 mission      Building practical AI systems: Data ➔ Model ➔ Eval ➔ Deploy
 portfolio    hemanath-portfolio.vercel.app
-
 ---
 
 ## ⚡ Key Impact
