@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hemanath Thangavel
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" align="center" /> Hemanath Thangavel
 
 ### Machine Learning Engineer • Computer Vision • Data Science • Open Source
 
@@ -11,14 +11,14 @@
 <a href="https://www.linkedin.com/in/hemnaththangavel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/hemnath14/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="https://www.kaggle.com/tamiizh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://hemanath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://hemanath-t.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" align="center" /> About Me
 
 I am a **Computer Science Engineering postgraduate (Class of 2026)** specializing in **Machine Learning, Computer Vision, Deep Learning, and Data Science**. 
 
@@ -29,7 +29,7 @@ Currently, I am expanding my expertise in **Generative AI, RAG (Retrieval-Augmen
 
 ---
 
-## ⚡ Key Impact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" align="center" /> Key Impact
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Currently, I am expanding my expertise in **Generative AI, RAG (Retrieval-Augmen
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" align="center" /> Featured Projects
 
 ### [Rumble Strip Detection](https://github.com/Hemanath400/rumble-strip-detection)
 A robust Computer Vision system designed to detect highway rumble strips from forward-facing road video, providing critical early warnings to drivers.
@@ -64,7 +64,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" align="center" /> Tech Stack
 
 ### Languages & Data Management
 <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />  
@@ -88,7 +88,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 ---
 
-## 🤝 Open Source Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" align="center" /> Open Source Contributions
 
 * **OpenAgentHQ:** Contributed core fixes and architectural improvements to the primary AI repository.
 * **OpenAgent Eval:** Enhanced the evaluation-focused codebase through rigorous testing and merged pull requests.
@@ -96,7 +96,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 ---
 
-## 💻 Problem Solving
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20body/Brain.png" alt="Brain" width="30" height="30" align="center" /> Problem Solving
 
 <div align="center">
 
@@ -115,7 +115,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" align="center" /> GitHub Stats
 
 <div align="center">
 
@@ -134,7 +134,7 @@ An ML-powered productivity system that combines a VS Code extension, Flask API, 
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="30" height="30" align="center" /> Connect With Me
 
 <div align="center">
 
