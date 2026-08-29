@@ -23,3 +23,25 @@ edu          Computer Science Engineering (Class of 2026)
 focus        Computer Vision · Deep Learning · Generative AI · Agentic AI
 mission      Building practical AI systems: Data ➔ Model ➔ Eval ➔ Deploy
 portfolio    hemanath-portfolio.vercel.app
+
+$ cat impact_and_oss.txt
+
+computer_vision     90.1% mAP@50 · 100% Precision · 3/3 Unseen Events
+football_analytics  17K+ Players tracked · 700+ Clubs · 1.8M+ Appearances
+open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
+workflow            Branching · Code Review · Unit Testing
+
+$ cat stack.txt
+
+languages    Python · SQL · SQLite · Pandas · NumPy
+ai_ml        Scikit-learn · XGBoost · LightGBM · CatBoost · CNNs · ResNet
+cv           OpenCV · Roboflow · RF-DETR · Video Processing
+deployment   Streamlit · Flask · FastAPI · REST APIs
+tooling      Git · GitHub · Joblib
+
+$ ls -la ~/projects
+
+drwxr-xr-x  rumble-strip-detection       Python   CV system for highway safety · 90.1% mAP@50
+drwxr-xr-x  football-player-analytics    Python   Interactive dashboard · 17K+ players
+drwxr-xr-x  football-match-predictor     Python   ML match prediction using XGBoost
+drwxr-xr-x  ai-focus-monitor             Python   AI developer focus tracking system
