@@ -17,14 +17,15 @@
 
 ---
 
-## 👨‍💻 About Me
+```yaml
+$ whoami --verbose
 
-I am a **Computer Science Engineering postgraduate (Class of 2026)** specializing in **Machine Learning, Computer Vision, Deep Learning, and Data Science**. 
-
-I thrive on building practical AI systems across the complete development lifecycle:  
-**Data Extraction ➔ Model Training ➔ Evaluation ➔ Deployment ➔ Real-world Testing**
-
-Currently, I am expanding my expertise in **Generative AI, RAG (Retrieval-Augmented Generation), and Agentic AI**, while actively contributing to the open-source community.
+name         Hemanath Thangavel
+role         Machine Learning Engineer / Data Scientist
+edu          Computer Science Engineering (Class of 2026)
+focus        Computer Vision · Deep Learning · Generative AI · Agentic AI
+mission      Building practical AI systems: Data ➔ Model ➔ Eval ➔ Deploy
+portfolio    hemanath-portfolio.vercel.app
 
 ---
 
