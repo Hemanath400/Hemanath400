@@ -3,7 +3,6 @@
 # 👋 Hemanath Thangavel
 
 ### Machine Learning Engineer • Computer Vision • Data Science • Open Source
-no
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+Enthusiast;Data+Science+%7C+Deep+Learning;Open+Source+Contributor;Building+Practical+AI+Systems" alt="Typing SVG" />
 
 <p>
