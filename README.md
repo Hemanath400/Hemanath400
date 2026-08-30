@@ -37,25 +37,30 @@ workflow            Branching · Code Review · Unit Testing
 
 ## 🚀 Featured Projects
 
-```bash
-$ ls -la ~/projects
-rumble-strip-detection
-desc: Robust CV system for highway safety · 90.1% mAP@50 · 100% Precision
-stack: Python · RF-DETR · Roboflow · OpenCV
+hemanath@github:~$ tree ~/projects -L 1
 
-football-player-analytics-dashboard
-desc: Interactive platform leveraging Transfermarkt data · 17K+ players
-stack: Python · Pandas · NumPy · Plotly · Streamlit
+~/projects
+├── rumble-strip-detection
+│   ├── Highway Safety Computer Vision System
+│   ├── 90.1% mAP@50 • 100% Precision
+│   └── Python • RF-DETR • Roboflow • OpenCV
+│
+├── football-player-analytics-dashboard
+│   ├── Analytics Dashboard for 17K+ Players
+│   ├── 768 Clubs • 1.8M Appearances
+│   └── Pandas • NumPy • Plotly • Streamlit
+│
+├── football-match-predictor
+│   ├── International Football Outcome Prediction
+│   ├── Machine Learning Pipeline
+│   └── Scikit-learn • XGBoost • Streamlit
+│
+└── ai-developer-focus-monitor
+    ├── Developer Productivity Intelligence System
+    ├── Focus Tracking • Burnout Prediction
+    └── Flask • SQLite • Streamlit
 
-football-match-predictor
-desc: ML application forecasting international match outcomes
-stack: Python · Scikit-learn · XGBoost · Streamlit
-
-ai-developer-focus-monitor
-desc: Productivity system tracking developer focus via VS Code & ML
-stack: Python · Flask · SQLite · Streamlit
-
-```
+4 projects, countless hours of debugging ☕
 
 ## 🛠️ Tech Stack
 ```yaml
