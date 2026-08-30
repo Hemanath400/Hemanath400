@@ -26,7 +26,6 @@ mission      Building practical AI systems: Data ➔ Model ➔ Eval ➔ Deploy
 
 ```
 
-## ⚡ Key Impact
 ```yaml
 $ cat impact_and_oss.txt
 
