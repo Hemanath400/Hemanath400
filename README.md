@@ -35,11 +35,11 @@ open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
-```yaml
-
-$ cat projects.yaml
 ```bash
 $ ls -la ~/projects\
+
+$ cat projects.yaml
+
 
 - name: [rumble-strip-detection](https://github.com/Hemanath400/rumble-strip-detection)
   desc: Robust CV system for highway safety · 90.1% mAP@50 · 100% Precision
