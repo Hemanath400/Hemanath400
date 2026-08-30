@@ -31,7 +31,7 @@ $ cat impact_and_oss.txt
 
 computer_vision     90.1% mAP@50 · 100% Precision · 3/3 Unseen Events
 football_analytics  17K+ Players tracked · 700+ Clubs · 1.8M+ Appearances
-open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
+open_source         Open Source Contributor · OpenAgentHQ · OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
