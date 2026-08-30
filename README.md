@@ -23,6 +23,7 @@ role         Machine Learning Engineer / Data Scientist
 edu          Master's in Computer Science Engineering (Class of 2026)
 focus        Computer Vision · Deep Learning · Generative AI · Agentic AI
 mission      Building practical AI systems: Data ➔ Model ➔ Eval ➔ Deploy
+```
 
 
 ```yaml
@@ -32,8 +33,9 @@ computer_vision     90.1% mAP@50 · 100% Precision · 3/3 Unseen Events
 football_analytics  17K+ Players tracked · 700+ Clubs · 1.8M+ Appearances
 open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
+```
 
-
+```yaml
 $ cat projects.yaml
 
 - name: rumble-strip-detection
@@ -55,6 +57,7 @@ $ cat projects.yaml
   url: https://github.com/Hemanath400/focus-monitor
   desc: Productivity system tracking developer focus via VS Code & ML
   stack: Python · Flask · SQLite · Streamlit
+```
 ---
 
 ## 🛠️ Tech Stack
