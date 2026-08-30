@@ -69,7 +69,6 @@ deployment   Streamlit · Flask · FastAPI · REST APIs
 tooling      Git · GitHub · Joblib
 
 ```
----
 
 ## 🤝 Open Source Contributions
 ```yaml
@@ -96,14 +95,12 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=Hemanath400&theme=github-dark-blue&hide_border=true" />
 </p>
----
 
 ## 📫 Connect With Me
 
