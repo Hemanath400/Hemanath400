@@ -100,20 +100,14 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hemanath400&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400&theme=github-dark-blue&hide_border=true" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemanath400&theme=dark)](https://git.io/streak-stats)
-
-<br>
-
-<a href="https://github.com/Hemanath400">
-<img src="https://img.shields.io/github/followers/Hemanath400?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-</a>
-<a href="https://github.com/Hemanath400?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories" />
-</a>
-
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanath400&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
@@ -134,8 +128,6 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 <br><br>
 
 ### ⚡ Building Practical AI Systems
-⚡ Building End-to-End AI Systems
-
 **Data Collection ➜ Training ➜ Evaluation ➜ Deployment ➜ Real-World Impact**
 <br>
 
