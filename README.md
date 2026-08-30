@@ -35,7 +35,12 @@ open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
+## 🚀 Featured Projects
+
+```bash
+$ ls -la ~/projects
 ```yaml
+
 $ ls -la ~/projects
 rumble-strip-detection
 desc: Robust CV system for highway safety · 90.1% mAP@50 · 100% Precision
