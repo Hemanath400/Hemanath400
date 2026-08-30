@@ -43,6 +43,7 @@ hemanath@github:~$ grep "featured" projects.db
 > rumble-strip-detection
   Highway safety computer vision system
   90.1% mAP@50 | 100% Precision
+  python, Robo-flow, Open-cv, Inference SDK, Numpy.
 
 > football-player-analytics-dashboard
   17K+ players analyzed | 1.8M+ appearances processed
