@@ -113,7 +113,7 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 <a href="https://hemanath-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel" alt="Portfolio" />
 </a>
 
 <br><br>
