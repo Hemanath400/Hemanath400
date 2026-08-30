@@ -56,7 +56,7 @@ hemanath@github:~$ grep "featured" projects.db
   Developer productivity intelligence platform
   VS Code + Flask + ML
 
-Query OK, 4 rows returned.
+Query OK, 4 projects loaded.
 ```
 
 ## 🛠️ Tech Stack
