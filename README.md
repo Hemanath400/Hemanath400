@@ -36,7 +36,7 @@ workflow            Branching · Code Review · Unit Testing
 ```
 
 ## 🚀 Featured Projects
-
+```yaml
 hemanath@github:~$ tree ~/projects -L 1
 
 ~/projects
@@ -61,6 +61,7 @@ hemanath@github:~$ tree ~/projects -L 1
     └── Flask • SQLite • Streamlit
 
 4 projects, countless hours of debugging ☕
+```
 
 ## 🛠️ Tech Stack
 ```yaml
