@@ -35,26 +35,56 @@ open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
-## 🚀 Featured Projects
+projects:
 ```yaml
-### [Rumble Strip Detection](https://github.com/Hemanath400/rumble-strip-detection)
-A robust Computer Vision system designed to detect highway rumble strips from forward-facing road video, providing critical early warnings to drivers.
-* **Performance:** 90.1% mAP@50 • 100% Precision • 90% Recall • 94.7% F1 Score
-* **Tech Stack:** `Python`, `RF-DETR`, `Roboflow`, `OpenCV`, `Computer Vision`
+  - name: rumble-strip-detection
+    url: https://github.com/Hemanath400/rumble-strip-detection
+    description: Robust Computer Vision system designed to detect highway rumble strips from forward-facing road video, providing critical early warnings to drivers.
+    performance:
+      map50: "90.1%"
+      precision: "100%"
+      recall: "90%"
+      f1_score: "94.7%"
+    tech_stack:
+      - Python
+      - RF-DETR
+      - Roboflow
+      - OpenCV
+      - Computer Vision
 
-### [Football Player Analytics Dashboard](https://github.com/Hemanath400/football-player-analytics-dashboard)
-An interactive and comprehensive football analytics platform leveraging Transfermarkt data.
-* **Scale:** 17K+ Players • 700+ Clubs • 1.8M+ Appearances
-* **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Plotly`, `Streamlit`
+  - name: football-player-analytics-dashboard
+    url: https://github.com/Hemanath400/football-player-analytics-dashboard
+    description: Interactive and comprehensive football analytics platform leveraging Transfermarkt data.
+    scale:
+      players: "17K+"
+      clubs: "700+"
+      appearances: "1.8M+"
+    tech_stack:
+      - Python
+      - Pandas
+      - NumPy
+      - Plotly
+      - Streamlit
 
-### [Football Match Predictor](https://github.com/Hemanath400/Football-match-predictor-app)
-A predictive Machine Learning application forecasting international football match outcomes utilizing historical data and advanced gradient boosting.
-* **Tech Stack:** `Python`, `Pandas`, `Scikit-learn`, `XGBoost`, `Streamlit`
+  - name: football-match-predictor
+    url: https://github.com/Hemanath400/Football-match-predictor-app
+    description: Predictive Machine Learning application forecasting international football match outcomes utilizing historical data and advanced gradient boosting.
+    tech_stack:
+      - Python
+      - Pandas
+      - Scikit-learn
+      - XGBoost
+      - Streamlit
 
-### [AI Developer Focus Monitor](https://github.com/Hemanath400/focus-monitor)
-An ML-powered productivity system that combines a VS Code extension, Flask API, and real-time dashboard to monitor developer focus.
-* **Tech Stack:** `Python`, `Flask`, `SQLite`, `Machine Learning`, `Streamlit`
-
+  - name: ai-developer-focus-monitor
+    url: https://github.com/Hemanath400/focus-monitor
+    description: ML-powered productivity system that combines a VS Code extension, Flask API, and real-time dashboard to monitor developer focus.
+    tech_stack:
+      - Python
+      - Flask
+      - SQLite
+      - Machine Learning
+      - Streamlit
 ```
 ---
 
