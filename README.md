@@ -45,8 +45,8 @@ hemanath@github:~$ grep "featured" projects.db
   90.1% mAP@50 | 100% Precision
 
 > football-player-analytics-dashboard
-  17K+ players analyzed
-  1.8M+ appearances processed
+  17K+ players analyzed | 1.8M+ appearances processed
+  Scikit-Learn, K-means, PCA, KNN, Recommendation systems.
 
 > football-match-predictor
   International football outcome forecasting
