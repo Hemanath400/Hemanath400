@@ -134,8 +134,9 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 <br><br>
 
 ### ⚡ Building Practical AI Systems
-**Data Engineering ➔ Advanced Modeling ➔ Rigorous Evaluation ➔ Scalable Deployment ➔ Real-World Impact**
+⚡ Building End-to-End AI Systems
 
+**Data Collection ➜ Training ➜ Evaluation ➜ Deployment ➜ Real-World Impact**
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Hemanath400&style=for-the-badge" alt="Profile Views" />
