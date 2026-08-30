@@ -35,29 +35,25 @@ open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
-```bash
-$ ls -la ~/projects\
+```yaml
+$ ls -la ~/projects
+rumble-strip-detection
+desc: Robust CV system for highway safety · 90.1% mAP@50 · 100% Precision
+stack: Python · RF-DETR · Roboflow · OpenCV
 
-$ cat projects.yaml
+football-player-analytics-dashboard
+desc: Interactive platform leveraging Transfermarkt data · 17K+ players
+stack: Python · Pandas · NumPy · Plotly · Streamlit
 
+football-match-predictor
+desc: ML application forecasting international match outcomes
+stack: Python · Scikit-learn · XGBoost · Streamlit
 
-- name: [rumble-strip-detection](https://github.com/Hemanath400/rumble-strip-detection)
-  desc: Robust CV system for highway safety · 90.1% mAP@50 · 100% Precision
-  stack: Python · RF-DETR · Roboflow · OpenCV
+ai-developer-focus-monitor
+desc: Productivity system tracking developer focus via VS Code & ML
+stack: Python · Flask · SQLite · Streamlit
 
-- name: [football-player-analytics-dashboard](https://github.com/Hemanath400/football-player-analytics-dashboard)
-  desc: Interactive platform leveraging Transfermarkt data · 17K+ players
-  stack: Python · Pandas · NumPy · Plotly · Streamlit
-
-- name: [football-match-predictor](https://github.com/Hemanath400/Football-match-predictor-app)
-  desc: ML application forecasting international match outcomes
-  stack: Python · Scikit-learn · XGBoost · Streamlit
-
-- name: [ai-developer-focus-monitor](https://github.com/Hemanath400/focus-monitor)
-  desc: Productivity system tracking developer focus via VS Code & ML
-  stack: Python · Flask · SQLite · Streamlit
 ```
----
 
 ## 🛠️ Tech Stack
 ```yaml
