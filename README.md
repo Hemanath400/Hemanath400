@@ -35,57 +35,27 @@ open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
-projects:
-```yaml
-  - name: rumble-strip-detection
-    url: https://github.com/Hemanath400/rumble-strip-detection
-    description: Robust Computer Vision system designed to detect highway rumble strips from forward-facing road video, providing critical early warnings to drivers.
-    performance:
-      map50: "90.1%"
-      precision: "100%"
-      recall: "90%"
-      f1_score: "94.7%"
-    tech_stack:
-      - Python
-      - RF-DETR
-      - Roboflow
-      - OpenCV
-      - Computer Vision
+$ cat projects.yaml
 
-  - name: football-player-analytics-dashboard
-    url: https://github.com/Hemanath400/football-player-analytics-dashboard
-    description: Interactive and comprehensive football analytics platform leveraging Transfermarkt data.
-    scale:
-      players: "17K+"
-      clubs: "700+"
-      appearances: "1.8M+"
-    tech_stack:
-      - Python
-      - Pandas
-      - NumPy
-      - Plotly
-      - Streamlit
+- name: rumble-strip-detection
+  url: https://github.com/Hemanath400/rumble-strip-detection
+  desc: Robust CV system for highway safety · 90.1% mAP@50 · 100% Precision
+  stack: Python · RF-DETR · Roboflow · OpenCV
 
-  - name: football-match-predictor
-    url: https://github.com/Hemanath400/Football-match-predictor-app
-    description: Predictive Machine Learning application forecasting international football match outcomes utilizing historical data and advanced gradient boosting.
-    tech_stack:
-      - Python
-      - Pandas
-      - Scikit-learn
-      - XGBoost
-      - Streamlit
+- name: football-player-analytics-dashboard
+  url: https://github.com/Hemanath400/football-player-analytics-dashboard
+  desc: Interactive platform leveraging Transfermarkt data · 17K+ players
+  stack: Python · Pandas · NumPy · Plotly · Streamlit
 
-  - name: ai-developer-focus-monitor
-    url: https://github.com/Hemanath400/focus-monitor
-    description: ML-powered productivity system that combines a VS Code extension, Flask API, and real-time dashboard to monitor developer focus.
-    tech_stack:
-      - Python
-      - Flask
-      - SQLite
-      - Machine Learning
-      - Streamlit
-```
+- name: football-match-predictor
+  url: https://github.com/Hemanath400/Football-match-predictor-app
+  desc: ML application forecasting international match outcomes
+  stack: Python · Scikit-learn · XGBoost · Streamlit
+
+- name: ai-developer-focus-monitor
+  url: https://github.com/Hemanath400/focus-monitor
+  desc: Productivity system tracking developer focus via VS Code & ML
+  stack: Python · Flask · SQLite · Streamlit
 ---
 
 ## 🛠️ Tech Stack
