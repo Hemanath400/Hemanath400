@@ -35,32 +35,28 @@ open_source         Multiple Merged PRs @ OpenAgentHQ & OpenAgent Eval
 workflow            Branching · Code Review · Unit Testing
 ```
 
-## 🚀 Featured Projects
 ```yaml
-hemanath@github:~$ tree ~/projects -L 1
+hemanath@github:~$ grep "featured" projects.db
 
-~/projects
-├── rumble-strip-detection
-│   ├── Highway Safety Computer Vision System
-│   ├── 90.1% mAP@50 • 100% Precision
-│   └── Python • RF-DETR • Roboflow • OpenCV
-│
-├── football-player-analytics-dashboard
-│   ├── Analytics Dashboard for 17K+ Players
-│   ├── 768 Clubs • 1.8M Appearances
-│   └── Pandas • NumPy • Plotly • Streamlit
-│
-├── football-match-predictor
-│   ├── International Football Outcome Prediction
-│   ├── Machine Learning Pipeline
-│   └── Scikit-learn • XGBoost • Streamlit
-│
-└── ai-developer-focus-monitor
-    ├── Developer Productivity Intelligence System
-    ├── Focus Tracking • Burnout Prediction
-    └── Flask • SQLite • Streamlit
+[FEATURED PROJECTS]
 
-4 projects, countless hours of debugging ☕
+> rumble-strip-detection
+  Highway safety computer vision system
+  90.1% mAP@50 | 100% Precision
+
+> football-player-analytics-dashboard
+  17K+ players analyzed
+  1.8M+ appearances processed
+
+> football-match-predictor
+  International football outcome forecasting
+  XGBoost + Scikit-learn
+
+> ai-developer-focus-monitor
+  Developer productivity intelligence platform
+  VS Code + Flask + ML
+
+Query OK, 4 rows returned.
 ```
 
 ## 🛠️ Tech Stack
