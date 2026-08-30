@@ -36,7 +36,7 @@ workflow            Branching · Code Review · Unit Testing
 ```
 
 ## 🚀 Featured Projects
-
+```yaml
 ### [Rumble Strip Detection](https://github.com/Hemanath400/rumble-strip-detection)
 A robust Computer Vision system designed to detect highway rumble strips from forward-facing road video, providing critical early warnings to drivers.
 * **Performance:** 90.1% mAP@50 • 100% Precision • 90% Recall • 94.7% F1 Score
@@ -55,6 +55,7 @@ A predictive Machine Learning application forecasting international football mat
 An ML-powered productivity system that combines a VS Code extension, Flask API, and real-time dashboard to monitor developer focus.
 * **Tech Stack:** `Python`, `Flask`, `SQLite`, `Machine Learning`, `Streamlit`
 
+```
 ---
 
 ## 🛠️ Tech Stack
