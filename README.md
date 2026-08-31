@@ -51,11 +51,11 @@ hemanath@github:~$ grep "featured" projects.db
 
 > football-match-predictor
   International football outcome forecasting
-  XGBoost + Scikit-learn
+  XGBoost + Scikit-learn.
 
 > ai-developer-focus-monitor
   Developer productivity intelligence platform
-  VS Code + Flask + ML
+  VS Code + Flask + ML.
 
 Query OK, 4 projects loaded.
 ```
