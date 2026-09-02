@@ -74,7 +74,7 @@ tooling      Git · GitHub · Joblib
 ## 🤝 Open Source Contributions
 ```yaml
 $ cat open_source.txt
-openagenthq     - Contributed core fixes & architectural improvements to the primary AI repo
+openagenthq     - Contributed to core fixes & architectural improvements to the primary AI repo
 openagent_eval  - Enhanced the evaluation-focused codebase via rigorous testing & merged PRs
 workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 ```
