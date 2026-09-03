@@ -60,9 +60,8 @@ $ featured_projects
 Query OK, 4 projects loaded.
 ```
 
-## 🛠️ Tech Stack
 ```yaml
-$ cat stack.txt
+$ 🛠️ Tech Stack
 languages    Python · SQL · SQLite · Pandas · NumPy
 ai_ml        Scikit-learn · XGBoost · LightGBM · CatBoost · CNNs · ResNet
 cv           OpenCV · Roboflow · RF-DETR · Video Processing
@@ -71,9 +70,9 @@ tooling      Git · GitHub · Joblib
 
 ```
 
-## 🤝 Open Source Contributions
+
 ```yaml
-$ cat open_source.txt
+$ 🤝 Open Source Contributions
 openagenthq     - Contributed to core fixes & architectural improvements to the primary AI repo
 openagent_eval  - Enhanced the evaluation-focused codebase via rigorous testing & merged PRs
 workflow        - Git · GitHub · Branching · Code Review · Unit Testing
