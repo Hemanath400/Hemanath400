@@ -36,7 +36,7 @@ workflow            Branching · Code Review · Unit Testing
 ```
 
 ```yaml
-hemanath@github:~$ grep "featured" projects.db
+$ featured_projects
 
 [FEATURED PROJECTS]
 
