@@ -79,7 +79,7 @@ openagent_eval  - Enhanced the evaluation-focused codebase via rigorous testing 
 workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 ```
 
-```yaml
+
 ## 💻 Problem Solving
 
 <div align="center">
@@ -90,9 +90,7 @@ workflow        - Git · GitHub · Branching · Code Review · Unit Testing
 <a href="https://www.kaggle.com/tamiizh">
 <img src="https://img.shields.io/badge/Kaggle-tamiizh-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" />
 </a>
-
 <br>
-```
 
 **Focus Areas:** `Python`, `Data Structures & Algorithms`, `SQL`, `Machine Learning`
 
