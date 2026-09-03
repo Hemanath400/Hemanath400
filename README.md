@@ -16,7 +16,7 @@
 </div>
 
 ```yaml
-$ whoami --verbose
+$ whoami
 
 name         Hemanath Thangavel
 role         Machine Learning Engineer / Data Scientist
@@ -27,7 +27,7 @@ mission      Building practical AI systems: Data ➔ Model ➔ Eval ➔ Deploy
 
 
 ```yaml
-$ cat impact_and_oss.txt
+$ impact_and_oss
 
 computer_vision     90.1% mAP@50 · 100% Precision · 3/3 Unseen Events
 football_analytics  17K+ Players tracked · 700+ Clubs · 1.8M+ Appearances
